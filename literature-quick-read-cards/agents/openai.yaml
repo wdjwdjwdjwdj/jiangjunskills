@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献速读卡生成器"
+  short_description: "Literature search, evidence checks, and quick-read cards"
+  default_prompt: "Use $literature-quick-read-cards to find, verify, summarize, and format a focused literature set as concise Chinese quick-read cards."
